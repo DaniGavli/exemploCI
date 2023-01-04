@@ -8,7 +8,7 @@
 		<version>2.1.7.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.jotajr.jenkins</groupId>
+	<groupId>com.daniela.jenkins</groupId>
 	<artifactId>exampleci</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>exampleci</name>
